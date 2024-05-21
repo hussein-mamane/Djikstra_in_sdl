@@ -1,0 +1,3 @@
+C:/Users/Housseini/CLionProjects/algo_in_sdl/cmake-build-debug/CMakeFiles/algo_in_sdl.dir
+C:/Users/Housseini/CLionProjects/algo_in_sdl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Housseini/CLionProjects/algo_in_sdl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
